@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyTechs</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="action_edit">Editar</string>
+    <string name="title_activity_detail">Detalle Actividad</string>
+    <string name="title_activity_insert">Nueva Actividad</string>
+    <string name="estado_label">Estado</string>
+    <string name="tecnico_label">Técnico</string>
+    <string name="prioridad_label">Prioridad</string>
+    <string name="descripcion_label">Descripción</string>
+
+    <string name="descripcion_input">Descripción</string>
+    <string name="categoria_label">Categoría</string>
+    <string name="action_discard">Descartar</string>
+    <string name="title_activity_update">Actualizar Actividad</string>
+
+</resources>

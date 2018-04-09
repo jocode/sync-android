@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="indicator_size">10dp</dimen>
+    <dimen name="card_elevation">5dp</dimen>
+    <dimen name="margin_top_between_cards">2dp</dimen>
+    <dimen name="margin_divider">2dp</dimen>
+    <dimen name="padding_top_form">16dp</dimen>
+    <dimen name="margin_right_form">8dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
